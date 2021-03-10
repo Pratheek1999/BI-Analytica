@@ -3,8 +3,4 @@ This project is a part of the development of dashboard analytics developed for a
 
 This app is divided into 2 apps, one is the Main Dashboard which summarizes & shows important stats, & the other is the detailed multipage app which drills down on much more details on the given data.
 
-# Screenshots
-Following are the screenshots of the pages of the apps 
-
-========================================================================
-  ##   Main Dashboard
+For Demo, visit the respective folders
