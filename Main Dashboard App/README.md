@@ -25,26 +25,26 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 # Screenshots
 Following are the screenshots of the pages of the apps 
 
-========================================================================
+======================================================================================
   ##   Main Dashboard
   
   #### The Full Dashboard Design:-
   
   ![Full Dashboard](https://user-images.githubusercontent.com/46183408/110622364-5e8e7e00-81c1-11eb-89d6-564b99879e55.png)
 
-========================================================================
+======================================================================================
 
 #### Scatterplot map of India:-
 
 ![Dashboard (2)](https://user-images.githubusercontent.com/46183408/110622750-e07ea700-81c1-11eb-90b5-8162a9c52aea.png)
 
-========================================================================
+======================================================================================
 
 #### Sales Prediction of next 15 days:-
 
 ![Sales prediction](https://user-images.githubusercontent.com/46183408/110623146-761a3680-81c2-11eb-8d75-48c8e40cadc1.jpg)
 
-========================================================================
+======================================================================================
 
 #### Basic Auth for sign-in:-
 
