@@ -6,5 +6,5 @@ This app is divided into 2 apps, one is the Main Dashboard which summarizes & sh
 # Screenshots
 Following are the screenshots of the pages of the apps 
 
-======================================================================================
+========================================================================
   ##   Main Dashboard
