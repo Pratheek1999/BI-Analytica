@@ -1,6 +1,6 @@
 # Main Dashboard app
 
-This is a project showing capabilities of Plotly Dash. It consists of a dashboard to monitor sales with some business KPIs and visualization based on transactional data with a simple ARMA sales 15 days look-ahead forecast. It is based on the sample data provided by the client firm. The dataset contains around 18k transactional data about orders & couriers
+This is a project showing capabilities of Plotly Dash. This is one part of the 2 part complete app. It consists of a dashboard to monitor sales with some business KPIs and visualization based on transactional data with a simple ARMA sales 15 days look-ahead forecast. It is based on the sample data provided by the client firm. The dataset contains around 18k transactional data about orders & couriers
 
 ## Getting Started
 
